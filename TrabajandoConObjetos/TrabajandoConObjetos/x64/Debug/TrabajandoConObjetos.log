@@ -1,0 +1,4 @@
+﻿  TrabajandoConObjetos.cpp
+E:\M5\UF3\TrabajandoConObjetos\TrabajandoConObjetos\TrabajandoConObjetos.cpp(31,23): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\M5\UF3\TrabajandoConObjetos\TrabajandoConObjetos\TrabajandoConObjetos.cpp(44,27): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  TrabajandoConObjetos.vcxproj -> E:\M5\UF3\TrabajandoConObjetos\x64\Debug\TrabajandoConObjetos.exe
